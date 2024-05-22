@@ -15,4 +15,5 @@
 3. [Finalizando Modelo de Negociação](/estudos/finalizandoModeloNegociacao.md)
 4. [Motivação do Typescript](/estudos/motivacaoDoTypescript.md)
 5. [Instalando o Typescript](/estudos/instalandoTypescript.md)
-6. []()
+6. [Conhecendo arquivos TS](/estudos/conhecendoArquivosTs.md)
+7. []()

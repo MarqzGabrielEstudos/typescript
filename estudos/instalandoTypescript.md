@@ -12,7 +12,7 @@ Ele vai adicionar o TypeScript como uma dependência minha de desenvolvimento. A
 
 Então precisamos criar um arquivo que vamos ver no próximo vídeo, que é o TS Config JSON, é esse arquivo que podemos fazer o *tweak*, pode melhorar, pode deixar o TypeScript mais rígido, mais frouxo, dependendo da necessidade do projeto.
 
-[Continuação...]()
+[Continuação...](/estudos/conhecendoArquivosTs.md)
 
 
 [README](/README.md)
