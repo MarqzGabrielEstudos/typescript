@@ -53,7 +53,7 @@ Tem uma coisa que precisamos resolver. Primeiro, precisamos resolver o problema 
 }
 ```
 
-[Continuação...]()
+[Continuação...](/estudos/aprimorandoConfiguracao.md)
 
 
 [README](/README.md)
