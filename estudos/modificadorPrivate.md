@@ -29,7 +29,7 @@ O que você está garantido é que na hora que você gerar o seu código para o 
 
 Por mais que o código no final seja gerado um código em JavaScript desprovido de todos os recursos que vimos aqui do TypeScript, você está garantindo que durante o *runtime* você tem 100% de certeza que ninguém vai fazer, vai cometer uma gafe de acessar propriedades que não existem ou modificar o estado de uma classe sua. Está bom.
 
-[Continuação...]()
+[Continuação...](/estudos/controllerNegociacao.md)
 
 
 [README](/README.md)
