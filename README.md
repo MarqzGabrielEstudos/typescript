@@ -25,4 +25,6 @@
 13. [Surpresa ao instanciar uma negociação](/estudos/supresaAoInstanciarNegociacao.md)
 14. [O tipo implicito any](/estudos/tipoImplicitoAny.md)
 15. [Ajustando nosso controller](/estudos/ajustandoController.md)
-16. []()
+16. [](/estudos/convertendoDadosEntrada.md)
+17. [](/estudos/organizandoCodigo.md)
+18. [](/estudos/limpandoFormulario.md)

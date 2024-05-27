@@ -43,7 +43,7 @@ export class NegociacaoController {
 //resto do codigo omitido
 ```
 
-[Continuação...]()
+[Continuação...](/estudos/convertendoDadosEntrada.md)
 
 
 [README](/README.md)
