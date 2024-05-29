@@ -28,3 +28,5 @@
 16. [](/estudos/convertendoDadosEntrada.md)
 17. [](/estudos/organizandoCodigo.md)
 18. [](/estudos/limpandoFormulario.md)
+19. [](/estudos/primeiroContatoComGenerics.md)
+20. []()

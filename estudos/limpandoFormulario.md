@@ -42,7 +42,7 @@ Código:
     }
 ```
 
-[Continuação...]()
+[Continuação...](/estudos/primeiroContatoComGenerics.md)
 
 
 [README](/README.md)
